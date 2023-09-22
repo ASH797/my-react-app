@@ -1,5 +1,16 @@
 ![Alt text](image.png)
 
+Topics Covered under this projects-
+
+React Hooks (useState, useEffect)
+React Components
+Fetch API
+Bootstrap - for styling
+Pagination
+Search bar
+Data Filtering
+Dynamic Routing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
